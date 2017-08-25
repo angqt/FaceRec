@@ -1,0 +1,17 @@
+﻿<Window x:Class="KinectSample1.src.InsertForm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="InsertForm" Height="373.134" Width="343.284">
+    <Canvas Name="canvas" Height="343" Margin="0,0,2,-1" VerticalAlignment="Top" HorizontalAlignment="Right" Width="333">
+        <Label Content="Name:" HorizontalAlignment="Left" Height="31" Margin="70,51,0,0" VerticalAlignment="Top" Width="44"/>
+        <Label Content="Surname: " HorizontalAlignment="Left" Height="31" Margin="54,87,0,0" VerticalAlignment="Top" Width="60"/>
+        <Label Content="Passport Number:" HorizontalAlignment="Left" Height="31" Margin="17,118,0,0" VerticalAlignment="Top" Width="112"/>
+        <TextBox Name="tbName" HorizontalAlignment="Left" Height="31" Margin="129,51,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="173"/>
+        <TextBox Name="tbSurname" HorizontalAlignment="Left" Height="31" Margin="129,87,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="173" />
+        <TextBox Name="tbPass" HorizontalAlignment="Left" Height="31" Margin="129,122,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="173" />
+        <Button Name="button" Content="Insert" HorizontalAlignment="Left" Height="48" Margin="223,272,0,0" VerticalAlignment="Top" Width="79" Click="Button_Click"/>
+        <Grid Height="169" Width="158" Canvas.Left="17" Canvas.Top="164">
+            <Canvas Name="cnv" Height="155" Canvas.Top="164" Width="129" Canvas.Left="17"/>
+        </Grid>
+    </Canvas>
+</Window>

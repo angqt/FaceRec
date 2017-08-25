@@ -1,0 +1,16 @@
+C:\Users\marikirm\Documents\Visual Studio 2015\Projects\KinectSample1\KinectSample1\bin\x64\Release\KinectSample1.exe.config
+C:\Users\marikirm\Documents\Visual Studio 2015\Projects\KinectSample1\KinectSample1\bin\x64\Release\KinectSample1.exe
+C:\Users\marikirm\Documents\Visual Studio 2015\Projects\KinectSample1\KinectSample1\bin\x64\Release\KinectSample1.pdb
+C:\Users\marikirm\Documents\Visual Studio 2015\Projects\KinectSample1\KinectSample1\bin\x64\Release\Microsoft.Kinect.dll
+C:\Users\marikirm\Documents\Visual Studio 2015\Projects\KinectSample1\KinectSample1\bin\x64\Release\Microsoft.Kinect.xml
+C:\Users\marikirm\Documents\Visual Studio 2015\Projects\KinectSample1\KinectSample1\obj\x64\Release\KinectSample1.csprojResolveAssemblyReference.cache
+C:\Users\marikirm\Documents\Visual Studio 2015\Projects\KinectSample1\KinectSample1\obj\x64\Release\MainWindow.g.cs
+C:\Users\marikirm\Documents\Visual Studio 2015\Projects\KinectSample1\KinectSample1\obj\x64\Release\App.g.cs
+C:\Users\marikirm\Documents\Visual Studio 2015\Projects\KinectSample1\KinectSample1\obj\x64\Release\KinectSample1_MarkupCompile.cache
+C:\Users\marikirm\Documents\Visual Studio 2015\Projects\KinectSample1\KinectSample1\obj\x64\Release\KinectSample1_MarkupCompile.lref
+C:\Users\marikirm\Documents\Visual Studio 2015\Projects\KinectSample1\KinectSample1\obj\x64\Release\MainWindow.baml
+C:\Users\marikirm\Documents\Visual Studio 2015\Projects\KinectSample1\KinectSample1\obj\x64\Release\KinectSample1.g.resources
+C:\Users\marikirm\Documents\Visual Studio 2015\Projects\KinectSample1\KinectSample1\obj\x64\Release\KinectSample1.Properties.Resources.resources
+C:\Users\marikirm\Documents\Visual Studio 2015\Projects\KinectSample1\KinectSample1\obj\x64\Release\KinectSample1.csproj.GenerateResource.Cache
+C:\Users\marikirm\Documents\Visual Studio 2015\Projects\KinectSample1\KinectSample1\obj\x64\Release\KinectSample1.exe
+C:\Users\marikirm\Documents\Visual Studio 2015\Projects\KinectSample1\KinectSample1\obj\x64\Release\KinectSample1.pdb

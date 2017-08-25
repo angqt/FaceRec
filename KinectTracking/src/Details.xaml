@@ -1,0 +1,13 @@
+﻿<Window x:Class="KinectSample1.src.Details"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Details" Height="377" Width="431">
+    <Grid>
+        <Label Content="Input Face:" HorizontalAlignment="Left" Height="32" Margin="10,10,0,0" VerticalAlignment="Top" Width="69"/>
+        <Label Content="Recognized Face:" HorizontalAlignment="Left" Height="32" Margin="216,10,0,0" VerticalAlignment="Top" Width="103"/>
+        <Canvas Name="savedFace" HorizontalAlignment="Left" Height="151" Margin="10,47,0,0" VerticalAlignment="Top" Width="129"/>
+        <Canvas Name="recognizedFace" HorizontalAlignment="Left" Height="151" Margin="216,47,0,0" VerticalAlignment="Top" Width="129"/>
+        <Label Content="Details:" HorizontalAlignment="Left" Height="28" Margin="12,213,0,0" VerticalAlignment="Top" Width="54"/>
+
+    </Grid>
+</Window>

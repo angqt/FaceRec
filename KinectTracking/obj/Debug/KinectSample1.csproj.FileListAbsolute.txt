@@ -1,0 +1,2 @@
+c:\users\marikirm\documents\visual studio 2015\Projects\KinectSample1\KinectSample1\bin\Debug\KinectSample1.exe.config
+C:\Users\marikirm\Google Drive\TTÜ\lõputöö - kinect workplace\KinectTracking\KinectTracking\bin\Debug\KinectSample1.exe.config

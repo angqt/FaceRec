@@ -1,0 +1,105 @@
+C:\Users\marikirm\Google Drive\TTÜ\lõputöö - kinect workplace\KinectTracking\KinectTracking\bin\x64\Release\KinectSample1.exe.config
+C:\Users\marikirm\Google Drive\TTÜ\lõputöö - kinect workplace\KinectTracking\KinectTracking\obj\x64\Release\KinectSample1.exe
+C:\Users\marikirm\Google Drive\TTÜ\lõputöö - kinect workplace\KinectTracking\KinectTracking\obj\x64\Release\KinectSample1.pdb
+C:\Users\marikirm\Google Drive\TTÜ\lõputöö - kinect workplace\KinectTracking\KinectTracking\bin\x64\Release\KinectSample1.exe
+C:\Users\marikirm\Google Drive\TTÜ\lõputöö - kinect workplace\KinectTracking\KinectTracking\bin\x64\Release\KinectSample1.pdb
+C:\Users\marikirm\Google Drive\TTÜ\lõputöö - kinect workplace\KinectTracking\KinectTracking\bin\x64\Release\Microsoft.Kinect.dll
+C:\Users\marikirm\Google Drive\TTÜ\lõputöö - kinect workplace\KinectTracking\KinectTracking\bin\x64\Release\Microsoft.Kinect.xml
+C:\Users\marikirm\Google Drive\TTÜ\lõputöö - kinect workplace\KinectTracking\KinectTracking\obj\x64\Release\KinectTracking.csprojResolveAssemblyReference.cache
+C:\Users\marikirm\Google Drive\TTÜ\lõputöö - kinect workplace\KinectTracking\KinectTracking\obj\x64\Release\MainWindow.g.cs
+C:\Users\marikirm\Google Drive\TTÜ\lõputöö - kinect workplace\KinectTracking\KinectTracking\obj\x64\Release\App.g.cs
+C:\Users\marikirm\Google Drive\TTÜ\lõputöö - kinect workplace\KinectTracking\KinectTracking\obj\x64\Release\KinectSample1_MarkupCompile.cache
+C:\Users\marikirm\Google Drive\TTÜ\lõputöö - kinect workplace\KinectTracking\KinectTracking\obj\x64\Release\KinectSample1_MarkupCompile.lref
+C:\Users\marikirm\Google Drive\TTÜ\lõputöö - kinect workplace\KinectTracking\KinectTracking\obj\x64\Release\MainWindow.baml
+C:\Users\marikirm\Google Drive\TTÜ\lõputöö - kinect workplace\KinectTracking\KinectTracking\obj\x64\Release\KinectSample1.g.resources
+C:\Users\marikirm\Google Drive\TTÜ\lõputöö - kinect workplace\KinectTracking\KinectTracking\obj\x64\Release\KinectSample1.Properties.Resources.resources
+C:\Users\marikirm\Google Drive\TTÜ\lõputöö - kinect workplace\KinectTracking\KinectTracking\obj\x64\Release\KinectTracking.csproj.GenerateResource.Cache
+C:\Users\siimk\Google Drive\TTÜ\Magister\3DFace\kinect-gesture-tracker\KinectTracking\bin\x64\Release\NuiDatabase\Expression\ExpressionRandomForest.model
+C:\Users\siimk\Google Drive\TTÜ\Magister\3DFace\kinect-gesture-tracker\KinectTracking\bin\x64\Release\NuiDatabase\Expression\EyeLeftRandomForest.model
+C:\Users\siimk\Google Drive\TTÜ\Magister\3DFace\kinect-gesture-tracker\KinectTracking\bin\x64\Release\NuiDatabase\Expression\EyeRightRandomForest.model
+C:\Users\siimk\Google Drive\TTÜ\Magister\3DFace\kinect-gesture-tracker\KinectTracking\bin\x64\Release\NuiDatabase\Expression\FacialHairIRRandomForest.model
+C:\Users\siimk\Google Drive\TTÜ\Magister\3DFace\kinect-gesture-tracker\KinectTracking\bin\x64\Release\NuiDatabase\Expression\FacialHairRandomForest.model
+C:\Users\siimk\Google Drive\TTÜ\Magister\3DFace\kinect-gesture-tracker\KinectTracking\bin\x64\Release\NuiDatabase\Expression\Feature.config
+C:\Users\siimk\Google Drive\TTÜ\Magister\3DFace\kinect-gesture-tracker\KinectTracking\bin\x64\Release\NuiDatabase\Expression\GlassesIRRandomForest.model
+C:\Users\siimk\Google Drive\TTÜ\Magister\3DFace\kinect-gesture-tracker\KinectTracking\bin\x64\Release\NuiDatabase\Expression\GlassesRandomForest.model
+C:\Users\siimk\Google Drive\TTÜ\Magister\3DFace\kinect-gesture-tracker\KinectTracking\bin\x64\Release\NuiDatabase\Expression\LookingAwayRandomForest.model
+C:\Users\siimk\Google Drive\TTÜ\Magister\3DFace\kinect-gesture-tracker\KinectTracking\bin\x64\Release\NuiDatabase\Expression\MouthMovedRandomForest.model
+C:\Users\siimk\Google Drive\TTÜ\Magister\3DFace\kinect-gesture-tracker\KinectTracking\bin\x64\Release\NuiDatabase\Expression\MouthOpenRandomForest.model
+C:\Users\siimk\Google Drive\TTÜ\Magister\3DFace\kinect-gesture-tracker\KinectTracking\bin\x64\Release\NuiDatabase\FaceAlignment.bin
+C:\Users\siimk\Google Drive\TTÜ\Magister\3DFace\kinect-gesture-tracker\KinectTracking\bin\x64\Release\NuiDatabase\FaceAlignmentColor.bin
+C:\Users\siimk\Google Drive\TTÜ\Magister\3DFace\kinect-gesture-tracker\KinectTracking\bin\x64\Release\NuiDatabase\FaceAlignmentColor27.bin
+C:\Users\siimk\Google Drive\TTÜ\Magister\3DFace\kinect-gesture-tracker\KinectTracking\bin\x64\Release\NuiDatabase\FaceDetector.bin
+C:\Users\siimk\Google Drive\TTÜ\Magister\3DFace\kinect-gesture-tracker\KinectTracking\bin\x64\Release\NuiDatabase\FaceOrientation.bin
+C:\Users\siimk\Google Drive\TTÜ\Magister\3DFace\kinect-gesture-tracker\KinectTracking\bin\x64\Release\NuiDatabase\FaceTrackingColor27.bin
+C:\Users\siimk\Google Drive\TTÜ\Magister\3DFace\kinect-gesture-tracker\KinectTracking\bin\x64\Release\NuiDatabase\HDFaceTracker\AAMModel\3DModel.bin
+C:\Users\siimk\Google Drive\TTÜ\Magister\3DFace\kinect-gesture-tracker\KinectTracking\bin\x64\Release\NuiDatabase\HDFaceTracker\AAMModel\3DModel_globalPCA.bin
+C:\Users\siimk\Google Drive\TTÜ\Magister\3DFace\kinect-gesture-tracker\KinectTracking\bin\x64\Release\NuiDatabase\HDFaceTracker\AAMModel\AAMModelData_F.bin
+C:\Users\siimk\Google Drive\TTÜ\Magister\3DFace\kinect-gesture-tracker\KinectTracking\bin\x64\Release\NuiDatabase\HDFaceTracker\AAMModel\AAMModelData_HLP.bin
+C:\Users\siimk\Google Drive\TTÜ\Magister\3DFace\kinect-gesture-tracker\KinectTracking\bin\x64\Release\NuiDatabase\HDFaceTracker\AAMModel\AAMModelData_HRP.bin
+C:\Users\siimk\Google Drive\TTÜ\Magister\3DFace\kinect-gesture-tracker\KinectTracking\bin\x64\Release\NuiDatabase\HDFaceTracker\AAMModel\PCAMaskBias.bin
+C:\Users\siimk\Google Drive\TTÜ\Magister\3DFace\kinect-gesture-tracker\KinectTracking\bin\x64\Release\NuiDatabase\HDFaceTracker\EvalModel\front.mod.bin
+C:\Users\siimk\Google Drive\TTÜ\Magister\3DFace\kinect-gesture-tracker\KinectTracking\bin\x64\Release\NuiDatabase\HDFaceTracker\EvalModel\front_nose.mod.bin
+C:\Users\siimk\Google Drive\TTÜ\Magister\3DFace\kinect-gesture-tracker\KinectTracking\bin\x64\Release\NuiDatabase\HDFaceTracker\EvalModel\left.mod.bin
+C:\Users\siimk\Google Drive\TTÜ\Magister\3DFace\kinect-gesture-tracker\KinectTracking\bin\x64\Release\NuiDatabase\HDFaceTracker\EvalModel\left_nose.mod.bin
+C:\Users\siimk\Google Drive\TTÜ\Magister\3DFace\kinect-gesture-tracker\KinectTracking\bin\x64\Release\NuiDatabase\HDFaceTracker\EvalModel\right.mod.bin
+C:\Users\siimk\Google Drive\TTÜ\Magister\3DFace\kinect-gesture-tracker\KinectTracking\bin\x64\Release\NuiDatabase\HDFaceTracker\EvalModel\right_nose.mod.bin
+C:\Users\siimk\Google Drive\TTÜ\Magister\3DFace\kinect-gesture-tracker\KinectTracking\bin\x64\Release\NuiDatabase\HDFaceTracker\EyeState\EyeClose.pra
+C:\Users\siimk\Google Drive\TTÜ\Magister\3DFace\kinect-gesture-tracker\KinectTracking\bin\x64\Release\NuiDatabase\HDFaceTracker\EyeState\EyeClose.wgh
+C:\Users\siimk\Google Drive\TTÜ\Magister\3DFace\kinect-gesture-tracker\KinectTracking\bin\x64\Release\NuiDatabase\HDFaceTracker\EyeState\LeftCloseRightOpen44Flip.pra
+C:\Users\siimk\Google Drive\TTÜ\Magister\3DFace\kinect-gesture-tracker\KinectTracking\bin\x64\Release\NuiDatabase\HDFaceTracker\EyeState\LeftCloseRightOpen44Flip.wgh
+C:\Users\siimk\Google Drive\TTÜ\Magister\3DFace\kinect-gesture-tracker\KinectTracking\bin\x64\Release\NuiDatabase\HDFaceTracker\EyeState\LeftOpenRightClose44Flip.pra
+C:\Users\siimk\Google Drive\TTÜ\Magister\3DFace\kinect-gesture-tracker\KinectTracking\bin\x64\Release\NuiDatabase\HDFaceTracker\EyeState\LeftOpenRightClose44Flip.wgh
+C:\Users\siimk\Google Drive\TTÜ\Magister\3DFace\kinect-gesture-tracker\KinectTracking\bin\x64\Release\NuiDatabase\HDFaceTracker\MouthModel\close.mod.bin
+C:\Users\siimk\Google Drive\TTÜ\Magister\3DFace\kinect-gesture-tracker\KinectTracking\bin\x64\Release\NuiDatabase\HDFaceTracker\MouthModel\lopen.mod.bin
+C:\Users\siimk\Google Drive\TTÜ\Magister\3DFace\kinect-gesture-tracker\KinectTracking\bin\x64\Release\NuiDatabase\HDFaceTracker\ViewModel\front.mod.bin
+C:\Users\siimk\Google Drive\TTÜ\Magister\3DFace\kinect-gesture-tracker\KinectTracking\bin\x64\Release\NuiDatabase\HDFaceTracker\ViewModel\left.mod.bin
+C:\Users\siimk\Google Drive\TTÜ\Magister\3DFace\kinect-gesture-tracker\KinectTracking\bin\x64\Release\NuiDatabase\HDFaceTracker\ViewModel\right.mod.bin
+C:\Users\siimk\Google Drive\TTÜ\Magister\3DFace\kinect-gesture-tracker\KinectTracking\bin\x64\Release\NuiDatabase\HDFaceTracker\WholeHeadModel\fullMeanHead60_tri.ply
+C:\Users\siimk\Google Drive\TTÜ\Magister\3DFace\kinect-gesture-tracker\KinectTracking\bin\x64\Release\NuiDatabase\HDFaceTracker\WholeHeadModel\FullHeadMaskVertexCorrespondence.txt
+C:\Users\siimk\Google Drive\TTÜ\Magister\3DFace\kinect-gesture-tracker\KinectTracking\bin\x64\Release\NuiDatabase\HDFaceTracker\ViewModel\right.p.txt
+C:\Users\siimk\Google Drive\TTÜ\Magister\3DFace\kinect-gesture-tracker\KinectTracking\bin\x64\Release\NuiDatabase\HDFaceTracker\ViewModel\left.p.txt
+C:\Users\siimk\Google Drive\TTÜ\Magister\3DFace\kinect-gesture-tracker\KinectTracking\bin\x64\Release\NuiDatabase\HDFaceTracker\ViewModel\front.p.txt
+C:\Users\siimk\Google Drive\TTÜ\Magister\3DFace\kinect-gesture-tracker\KinectTracking\bin\x64\Release\NuiDatabase\HDFaceTracker\SkintoneModel\skintone_shape_classifier.txt
+C:\Users\siimk\Google Drive\TTÜ\Magister\3DFace\kinect-gesture-tracker\KinectTracking\bin\x64\Release\NuiDatabase\HDFaceTracker\SkintoneModel\skintone_appearance_classifier.txt
+C:\Users\siimk\Google Drive\TTÜ\Magister\3DFace\kinect-gesture-tracker\KinectTracking\bin\x64\Release\NuiDatabase\HDFaceTracker\MouthModel\MeanShapes.txt
+C:\Users\siimk\Google Drive\TTÜ\Magister\3DFace\kinect-gesture-tracker\KinectTracking\bin\x64\Release\NuiDatabase\HDFaceTracker\MouthModel\lopen.p.txt
+C:\Users\siimk\Google Drive\TTÜ\Magister\3DFace\kinect-gesture-tracker\KinectTracking\bin\x64\Release\NuiDatabase\HDFaceTracker\MouthModel\close.p.txt
+C:\Users\siimk\Google Drive\TTÜ\Magister\3DFace\kinect-gesture-tracker\KinectTracking\bin\x64\Release\NuiDatabase\HDFaceTracker\EvalModel\right.p.txt
+C:\Users\siimk\Google Drive\TTÜ\Magister\3DFace\kinect-gesture-tracker\KinectTracking\bin\x64\Release\NuiDatabase\HDFaceTracker\EvalModel\left.p.txt
+C:\Users\siimk\Google Drive\TTÜ\Magister\3DFace\kinect-gesture-tracker\KinectTracking\bin\x64\Release\NuiDatabase\HDFaceTracker\EvalModel\Front.p.txt
+C:\Users\siimk\Google Drive\TTÜ\Magister\3DFace\kinect-gesture-tracker\KinectTracking\bin\x64\Release\NuiDatabase\HDFaceTracker\AAMModel\Map2D3D_HRP.txt
+C:\Users\siimk\Google Drive\TTÜ\Magister\3DFace\kinect-gesture-tracker\KinectTracking\bin\x64\Release\NuiDatabase\HDFaceTracker\AAMModel\Map2D3D_HLP.txt
+C:\Users\siimk\Google Drive\TTÜ\Magister\3DFace\kinect-gesture-tracker\KinectTracking\bin\x64\Release\NuiDatabase\HDFaceTracker\AAMModel\Map2D3D_F.txt
+C:\Users\siimk\Google Drive\TTÜ\Magister\3DFace\kinect-gesture-tracker\KinectTracking\bin\x64\Release\NuiDatabase\Expression\NuiExpressionModelManifest.txt
+C:\Users\siimk\Google Drive\TTÜ\Magister\3DFace\kinect-gesture-tracker\KinectTracking\bin\x64\Release\Microsoft.Expression.Drawing.dll
+C:\Users\siimk\Google Drive\TTÜ\Magister\3DFace\kinect-gesture-tracker\KinectTracking\bin\x64\Release\Microsoft.Kinect.dll
+C:\Users\siimk\Google Drive\TTÜ\Magister\3DFace\kinect-gesture-tracker\KinectTracking\bin\x64\Release\Microsoft.Kinect.Face.dll
+C:\Users\siimk\Google Drive\TTÜ\Magister\3DFace\kinect-gesture-tracker\KinectTracking\bin\x64\Release\Microsoft.Kinect.xml
+C:\Users\siimk\Google Drive\TTÜ\Magister\3DFace\kinect-gesture-tracker\KinectTracking\bin\x64\Release\Microsoft.Kinect.Face.xml
+C:\Users\siimk\Google Drive\TTÜ\Magister\3DFace\kinect-gesture-tracker\KinectTracking\bin\x64\Release\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\siimk\Google Drive\TTÜ\Magister\3DFace\kinect-gesture-tracker\KinectTracking\bin\x64\Release\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\siimk\Google Drive\TTÜ\Magister\3DFace\kinect-gesture-tracker\KinectTracking\bin\x64\Release\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\siimk\Google Drive\TTÜ\Magister\3DFace\kinect-gesture-tracker\KinectTracking\bin\x64\Release\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\siimk\Google Drive\TTÜ\Magister\3DFace\kinect-gesture-tracker\KinectTracking\bin\x64\Release\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\siimk\Google Drive\TTÜ\Magister\3DFace\kinect-gesture-tracker\KinectTracking\bin\x64\Release\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\siimk\Google Drive\TTÜ\Magister\3DFace\kinect-gesture-tracker\KinectTracking\bin\x64\Release\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\siimk\Google Drive\TTÜ\Magister\3DFace\kinect-gesture-tracker\KinectTracking\bin\x64\Release\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\siimk\Google Drive\TTÜ\Magister\3DFace\kinect-gesture-tracker\KinectTracking\bin\x64\Release\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\siimk\Google Drive\TTÜ\Magister\3DFace\kinect-gesture-tracker\KinectTracking\obj\x64\Release\src\MainWindow.g.cs
+C:\Users\siimk\Google Drive\TTÜ\Magister\3DFace\kinect-gesture-tracker\KinectTracking\obj\x64\Release\src\App.g.cs
+C:\Users\siimk\Google Drive\TTÜ\Magister\3DFace\kinect-gesture-tracker\KinectTracking\obj\x64\Release\KinectSample1_MarkupCompile.cache
+C:\Users\siimk\Google Drive\TTÜ\Magister\3DFace\kinect-gesture-tracker\KinectTracking\obj\x64\Release\KinectSample1_MarkupCompile.lref
+C:\Users\siimk\Google Drive\TTÜ\Magister\3DFace\kinect-gesture-tracker\KinectTracking\obj\x64\Release\src\MainWindow.baml
+C:\Users\siimk\Google Drive\TTÜ\Magister\3DFace\kinect-gesture-tracker\KinectTracking\obj\x64\Release\KinectSample1.g.resources
+C:\Users\siimk\Google Drive\TTÜ\Magister\3DFace\kinect-gesture-tracker\KinectTracking\obj\x64\Release\KinectSample1.Properties.Resources.resources
+C:\Users\siimk\Google Drive\TTÜ\Magister\3DFace\kinect-gesture-tracker\KinectTracking\obj\x64\Release\KinectTracking.csproj.GenerateResource.Cache
+C:\Users\siimk\Google Drive\TTÜ\Magister\3DFace\kinect-gesture-tracker\KinectTracking\obj\x64\Release\KinectSample1.exe
+C:\Users\siimk\Google Drive\TTÜ\Magister\3DFace\kinect-gesture-tracker\KinectTracking\obj\x64\Release\KinectSample1.pdb
+C:\Users\siimk\Google Drive\TTÜ\Magister\3DFace\kinect-gesture-tracker\KinectTracking\bin\x64\Release\KinectSample1.exe.config
+C:\Users\siimk\Google Drive\TTÜ\Magister\3DFace\kinect-gesture-tracker\KinectTracking\bin\x64\Release\KinectSample1.exe
+C:\Users\siimk\Google Drive\TTÜ\Magister\3DFace\kinect-gesture-tracker\KinectTracking\bin\x64\Release\KinectSample1.pdb
+C:\Users\siimk\Google Drive\TTÜ\Magister\3DFace\kinect-gesture-tracker\KinectTracking\obj\x64\Release\KinectTracking.csprojResolveAssemblyReference.cache
+C:\Users\siimk\Google Drive\TTÜ\Magister\3DFace\kinect-gesture-tracker\KinectTracking\bin\x64\Release\Accord.dll.config
+C:\Users\siimk\Google Drive\TTÜ\Magister\3DFace\kinect-gesture-tracker\KinectTracking\bin\x64\Release\Accord.dll
+C:\Users\siimk\Google Drive\TTÜ\Magister\3DFace\kinect-gesture-tracker\KinectTracking\bin\x64\Release\Accord.xml
+C:\Users\siimk\Google Drive\TTÜ\Magister\3DFace\kinect-gesture-tracker\KinectTracking\obj\x64\Release\KinectSample1_Content.g.cs

@@ -1,0 +1,32 @@
+c:\users\marikirm\documents\visual studio 2015\Projects\KinectSample1\KinectSample1\bin\x64\Debug\KinectSample1.exe.config
+c:\users\marikirm\documents\visual studio 2015\Projects\KinectSample1\KinectSample1\bin\x64\Debug\KinectSample1.exe
+c:\users\marikirm\documents\visual studio 2015\Projects\KinectSample1\KinectSample1\bin\x64\Debug\KinectSample1.pdb
+c:\users\marikirm\documents\visual studio 2015\Projects\KinectSample1\KinectSample1\bin\x64\Debug\Microsoft.Kinect.dll
+c:\users\marikirm\documents\visual studio 2015\Projects\KinectSample1\KinectSample1\bin\x64\Debug\Microsoft.Kinect.xml
+c:\users\marikirm\documents\visual studio 2015\Projects\KinectSample1\KinectSample1\obj\x64\Debug\KinectSample1.csprojResolveAssemblyReference.cache
+c:\users\marikirm\documents\visual studio 2015\Projects\KinectSample1\KinectSample1\obj\x64\Debug\MainWindow.g.cs
+c:\users\marikirm\documents\visual studio 2015\Projects\KinectSample1\KinectSample1\obj\x64\Debug\App.g.cs
+c:\users\marikirm\documents\visual studio 2015\Projects\KinectSample1\KinectSample1\obj\x64\Debug\KinectSample1_MarkupCompile.cache
+c:\users\marikirm\documents\visual studio 2015\Projects\KinectSample1\KinectSample1\obj\x64\Debug\KinectSample1_MarkupCompile.lref
+c:\users\marikirm\documents\visual studio 2015\Projects\KinectSample1\KinectSample1\obj\x64\Debug\MainWindow.baml
+c:\users\marikirm\documents\visual studio 2015\Projects\KinectSample1\KinectSample1\obj\x64\Debug\KinectSample1.g.resources
+c:\users\marikirm\documents\visual studio 2015\Projects\KinectSample1\KinectSample1\obj\x64\Debug\KinectSample1.Properties.Resources.resources
+c:\users\marikirm\documents\visual studio 2015\Projects\KinectSample1\KinectSample1\obj\x64\Debug\KinectSample1.csproj.GenerateResource.Cache
+c:\users\marikirm\documents\visual studio 2015\Projects\KinectSample1\KinectSample1\obj\x64\Debug\KinectSample1.exe
+c:\users\marikirm\documents\visual studio 2015\Projects\KinectSample1\KinectSample1\obj\x64\Debug\KinectSample1.pdb
+C:\Users\marikirm\Google Drive\TTÜ\lõputöö - kinect workplace\KinectSample1\KinectSample1\bin\x64\Debug\KinectSample1.exe.config
+C:\Users\marikirm\Google Drive\TTÜ\lõputöö - kinect workplace\KinectSample1\KinectSample1\obj\x64\Debug\KinectSample1.exe
+C:\Users\marikirm\Google Drive\TTÜ\lõputöö - kinect workplace\KinectSample1\KinectSample1\obj\x64\Debug\KinectSample1.pdb
+C:\Users\marikirm\Google Drive\TTÜ\lõputöö - kinect workplace\KinectSample1\KinectSample1\bin\x64\Debug\KinectSample1.exe
+C:\Users\marikirm\Google Drive\TTÜ\lõputöö - kinect workplace\KinectSample1\KinectSample1\bin\x64\Debug\KinectSample1.pdb
+C:\Users\marikirm\Google Drive\TTÜ\lõputöö - kinect workplace\KinectSample1\KinectSample1\bin\x64\Debug\Microsoft.Kinect.dll
+C:\Users\marikirm\Google Drive\TTÜ\lõputöö - kinect workplace\KinectSample1\KinectSample1\bin\x64\Debug\Microsoft.Kinect.xml
+C:\Users\marikirm\Google Drive\TTÜ\lõputöö - kinect workplace\KinectSample1\KinectSample1\obj\x64\Debug\KinectSample1.csprojResolveAssemblyReference.cache
+C:\Users\marikirm\Google Drive\TTÜ\lõputöö - kinect workplace\KinectSample1\KinectSample1\obj\x64\Debug\MainWindow.g.cs
+C:\Users\marikirm\Google Drive\TTÜ\lõputöö - kinect workplace\KinectSample1\KinectSample1\obj\x64\Debug\App.g.cs
+C:\Users\marikirm\Google Drive\TTÜ\lõputöö - kinect workplace\KinectSample1\KinectSample1\obj\x64\Debug\KinectSample1_MarkupCompile.cache
+C:\Users\marikirm\Google Drive\TTÜ\lõputöö - kinect workplace\KinectSample1\KinectSample1\obj\x64\Debug\KinectSample1_MarkupCompile.lref
+C:\Users\marikirm\Google Drive\TTÜ\lõputöö - kinect workplace\KinectSample1\KinectSample1\obj\x64\Debug\MainWindow.baml
+C:\Users\marikirm\Google Drive\TTÜ\lõputöö - kinect workplace\KinectSample1\KinectSample1\obj\x64\Debug\KinectSample1.g.resources
+C:\Users\marikirm\Google Drive\TTÜ\lõputöö - kinect workplace\KinectSample1\KinectSample1\obj\x64\Debug\KinectSample1.Properties.Resources.resources
+C:\Users\marikirm\Google Drive\TTÜ\lõputöö - kinect workplace\KinectSample1\KinectSample1\obj\x64\Debug\KinectSample1.csproj.GenerateResource.Cache
